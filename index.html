@@ -6,6 +6,7 @@
     <title>Apple Termékek Boltja</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="Képek/Apple_logo_black.jpg" type="image/x-icon">
+
 </head>
 <body>
 
@@ -14,13 +15,13 @@
     <nav>
         <ul>
 
-            <li><a href="#">Kezdőlap</a></li>
-            <li><a href="Navbaros_weboldalak/termekek.html">Termékek</a></li>
-            <li><a href="#">Kapcsolat</a></li>
+            <li><a href="index.html">Kezdőlap</a></li>
+            <li><a href="Navbaros_weboldalak/termekek_css,html/termekek.html">Termékek</a></li>
+            <li><a href="Navbaros_weboldalak/kapcsolat.html">Kapcsolat</a></li>
             <div class="kereses">
                 <form>
                     <input type="text" placeholder="Keresés...">
-                    <button type="submit">Keres</button>
+                    <button type="submit">Keresés</button>
                 </form>
             </div>
         </ul>
@@ -31,7 +32,11 @@
     <section id="kiemelt termekek">
         <h2>Összefoglaló:</h2>
         <div class="product">
-            <img src="Képek/iPhone-15-Pro-Lineup-Feature.jpg" alt="iPhone 15">
+            <div class="Iphone 15">
+                <img src="Képek/iPhone-15-Pro-Lineup-Feature.jpg" alt="iPhone 15" class="product_kep">
+                <img src="Képek/iphone_15_pro.jpg" alt="Iphone 15" class="product_kep">
+                <img src="Képek/iphone-15-128gb.jpg" alt="iPhone 15" class="product_kep">
+            </div>
             <h3>iPhone 15 széria</h3>
             <p>iPhone 15 és iPhone 15 Plus
                 Fontos újítás, hogy az új készülékek megkapták az iPhone 14 Pro családban debütált dinamikus szigetet, ami a gyakorlatban egy rendkívül hasznos funkció. Az operációs rendszer az előlapi kamera és a Face ID szenzorai közé különféle animációkat rajzol, egy élő sávot létrehozva, ami nem csak látványos, de az alkalmazások közötti váltást is meggyorsítja. A funkcionalitásban a tavalyi Pro modellhez képest nincs változás, a kijelzőben viszont van, az OLED-technológiás Super Retina XDR megjelenítők kültéren a 2000 nites fényerőt is tudják hozni, tehát nagyjából arra lehet idén számítani az alapmodellekben, amit tavaly a Pro változatok tudtak, leszámítva a 120 Hz-es képfrissítést lehetővé tevő ProMotion technológiát.A keret szálcsiszolt felületű alumíniumból készült, amely egyébként 75%-ban újrahasznosított anyagokból készül, amihez kapcsolódóan említésre méltó, hogy a réz, a kobalt, a kamerában pedig az arany komponensek 100%-ban újrahasznosítottak. A hátlapot üveg borítja, amely a kamera előtti részt leszámítva texturált matt. A főkamera 48 megapixeles, 26 milliméter ekvivalens látószöggel, f/1.6-os apertúrával, szenzorszintű optikai stabilizátorral, 2 mikronos pixelmérettel. Az új szenzor lehetővé teszi, hogy kisebb felbontás mellett 2x-es szenzorzoomot lehessen használni, ami végeredményben olyan, mintha három kamera lenne a hátlapon, pedig kettő van: a másik egy 13 milliméter ekvivalens, azaz 120 fokos nagylátószögű, 12 megapixeles felbontással. Rengeteg szoftveres újdonság is érkezett, új algoritmus dolgozik a portré mód mögött, amely embereken és háziállatokon egyaránt működik, jobb lett az éjszakai mód, valósághűbbek a bőrszínek.
@@ -40,22 +45,34 @@
             <a href="https://www.apple.com/hu/iphone-15-pro/specs/">További részletek</a>
         </div>
         <div class="product">
-            <img src="macbook.jpg" alt="MacBook">
+           <div class="macbook">
+            <img src="Képek/macbook pro .jpg" alt="MacBook" class="product_kep">
+               <img src="Képek/og-macbook-pro-202310.jpg" alt="Macbook" class="product_kep">
+
+             </div> 
             <h3>MacBook</h3>
-            <p>Az Apple kifinomult és erőteljes laptopja.</p>
-            <a href="#">További részletek</a>
+            <p>Az Apple nemrég mutatta be az M3-as rendszerchipcsaládot, amelyből az alapváltozat mellett egyelőre a Pro és a Max modellek érhetők el, az Ultra még nincs piacon. Ezek mindegyike megtalálható a 14 hüvelykes MacBook Pro modellekben, amelyek között nincs dizájnbelikülönbség, mindegyik a 2021-ben az M1 Pro és M1 Max rendszerchipekkel érkező 14-es modell külsejét kapta meg. Ez az első eset, hogy 14 hüvelykes gép érkezik az adott rendszerchip alapváltozatával, ami két dolgot jelent: egyrészt azt, hogy nem érkezik M3-as Pro 13 hüvelykes kijelzővel, a 2016-ban bevezetett Touch Barnak végleg búcsút inthetünk. Másrészt azt, hogy alap M3-as elég erős ahhoz, hogy a kiváló teljesítményéről híres 14 hüvelykes Pro modellekben is helyet kaphasson. A mostani blogbejegyzésünkben többek között azt vizsgáljuk, hogy ez így van-e, továbbá segítünk azoknak a felhasználóknak, akik kisebb mérető MacBook vásárlásán gondolkodnak, de a 13,3 hüvelykes Pro hiányában nem tudják, hogy merre induljanak: a 13,6 hüvelykes MacBook Air, vagy a 14,2 hüvelykes MacBook Pro felé?</p>
+            <a href="https://www.apple.com/hu/macbook-pro/">További részletek</a>
         </div>
         <div class="product">
-            <img src="macbook.jpg" alt="MacBook">
-            <h3>MacBook</h3>
-            <p>Az Apple kifinomult és erőteljes laptopja.</p>
-            <a href="#">További részletek</a>
+            <div id="ipods">
+             <img class="airpods" src="Képek/airpods 1 gen.jpg" alt="Airpods 1" class="product_kep">
+            <img class="airpods" src="Képek/airpods 2 gen.jpg" alt="Airpods 2" class="product_kep">
+            <img class="airpods" src="Képek/airpods 3 gen.jpg" alt="Airpods 3" class="product_kep">
+            <img class="airpods" src="Képek/airpods 3 pro.jpg" alt="Airpods 3 pro" class="product_kep">
+            </div>
+            <h3>Airpods</h3>
+            <p>Az AirPods sokak szerint minden idők egyik legjobb Apple termékcsaládja. Aki még nem próbálta valamelyik modellt, az persze most valószínűleg elgondolkodott azon, hogy miért pont egy fülhallgató lenne egy olyan cég legkiemelkedőbb terméke, amelyiknek az okostelefonok, a táblagépek és a számítógépek újragondolását is köszönhetjük. De mégis: hiába gyárt ma már szinte mindenki TWS, azaz True Wireless Stereo fülhallgatókat, és hiába rendelkezik ezek körül rengeteg kiváló specifikációkkal, mégis az AirPods az a termékcsalád, ami megmutatja, hogy a zenehallgatási élmény nem a kHz értékeknél kezdődik és ér véget. Az Apple ugyanis az egyszerű kezelhetőségre, a praktikumra és a kényelemre is ugyanúgy hangsúlyt fektetett, mint a hangminőségre, ez pedig a nap végén sokaknál egy döntő érvnek bizonyult.Aki tehát úgy dönt, hogy a következő fülhallgatója egy AirPods lesz, abban a kellemes helyzetben találja magát, hogy három modell közül is választhat; ha egy fejhallgató is szóba kerülhet, akkor persze ott van a Max is, de most maradjunk a kisebb megoldásoknál. Jelenleg is piacon van még a második generációs modell, amely mellett a tavaly év végén megjelent harmadik generáció és az aktuális Pro változat jelenti a termékskálát, ezek pedig ár szempont alapvetően szépen differenciálva vannak, ugyanakkor a rendszeres akcióknak köszönhetően néha viszonylag közel kerülnek egymáshoz. Jelenleg mindegyik modell akciós az iSTYLE üzletekben, így a 49 900, a 69 900 és a 89 900 forintos árcédulák szép sormintát alkotnak, de az ajánlott fogyasztói árak amúgy ennél magasabbak, 52 900, 74 900 és 99 900 forint.</p>
+            <a href="https://www.apple.com/hu/airpods/compare/">További részletek</a>
         </div>
         <div class="product">
-            <img src="macbook.jpg" alt="MacBook">
-            <h3>MacBook</h3>
-            <p>Az Apple kifinomult és erőteljes laptopja.</p>
-            <a href="#">További részletek</a>
+            <img class="vision" img src="Képek/Apple-WWDC23-Vision-Pro-EyeSight-230605.jpg.large_2x.jpg" alt="Apple Vision Pro">
+            <img class="vision" img src="Képek/Apple-WWDC23-Vision-Pro-glass-230605_big.jpg.large.jpg" alt="Apple Vision Pro">
+            <img class="vision" img src="Képek/Apple-WWDC23-Vision-Pro-rotation-230605.jpg.large_2x.jpg" alt="Apple Vision Pro">
+            <h3>Apple Vision Pro</h3>
+            <p>Az előzetes, Apple által kontrollált felhasználói beszámolók után befutottak az első, már tényleg csak a vásárlók valós tapasztalatain alapuló tesztek és beszámolók az Apple Vision Próról. A készüléket az azt birtoklók egyöntetűen varázslatosnak írják le, ennek ellenére több hibája van – a legnagyobb, hogy egyelőre senki sem tudja, miért is lesz majd jó egy közel kétmilliós búvárszemüvegen keresztül nézni a világot.
+                Hosszú hónapok után február másodikán végre elérkeztünk ahhoz a történelmi naphoz, minek során az Apple új időszámítást indított a vállalat történelmében – ekkor jelent meg ugyanis az Apple Vision Pro, a vállalat első virtuális és kiterjesztett valóságot használó szemüvege, ami innentől kezdve meghatározó szerepet fog betölteni a vállalat portfóliójában. A cupertinóiak több mint tíz éven keresztül dolgoztak a készüléken, ami az előzetes beszámolók szerint egyáltalán nem lett tökéletes – ennek ellenére azonban az eddigi legjobb headset, ami valaha a piacra lett dobva. A lényeg pedig ebben rejlik, a Vision Pro ugyanis még csak a kezdetek kezdete.</p>
+            <a href="https://www.apple.com/apple-vision-pro/">További részletek</a>
         </div>
         <div class="product">
             <img src="macbook.jpg" alt="MacBook">

@@ -4,14 +4,10 @@ html, body, header, main, footer {
     padding: 0;
 }
 
-
+/* Alap stílusok */
 body {
-    font-family: "Roboto", sans-serif;
+    font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-image: url(Képek/d3czj2e-1ff4aadf-0e10-4dab-8e9e-bc88f7ff2888.jpg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-attachment: fixed;
     
 }
 
@@ -49,7 +45,6 @@ main {
     border: 1px solid #ccc;
     padding: 20px;
     margin-bottom: 20px;
-    
 }
 
 .product img {
@@ -83,40 +78,5 @@ footer {
 }
 
 .product_kep{
-    height: 300px;
-    width: 300px;
-    margin-right: 150px;
-    justify-content: space-between;
-    display:inline-flex;
-    border: solid 5px black;
-}
-
-.airpods{
-    /* padding: 10px; */
     height: 250px;
-    width: 250px;
-    margin-right: 100px;
-    border: solid 5px black;
-}
-
-#ipods {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-
-.macbook{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    
-}
-.vision{
-    display: inline flex;
-    flex-direction: row;
-    justify-content: space-between;
-    height: 270px;
-    width: 490px;
-    margin-right: 100px;
-    border: solid 5px black;
 }
