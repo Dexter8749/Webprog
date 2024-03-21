@@ -11,9 +11,7 @@ Super Retina XDR‑kijelző
 2556 x 1179 képpontos felbontás, 460 ppi képpontsűrűség
 Az iPhone 15 Pro kijelzőjének lekerekített sarkai gyönyörűen követik a telefon ívelt vonalait,
  és szabályos téglalapba illeszkednek.
- A kijelzőt teljes téglalapként mérve a képátló 6,12 hüvelyk (a tényleges kijelzőfelület kisebb).;
-
-Iphone 15:
+ A kijelzőt teljes téglalapként mérve a képátló 6,12 hüvelyk (a tényleges kijelzőfelület kisebb).;Iphone 15:
 Super Retina XDR‑kijelző
 6,1 hüvelykes képátlójú, teljes előlapot kitöltő OLED-kijelző
  2556 x 1179 képpontos felbontás, 460 ppi képpontsűrűség
@@ -31,7 +29,6 @@ Super Retina XDR‑kijelző
 True Tone technológia
   Széles színtartomány (P3)
   Haptikus érintés
- 2 000 000:1 kontrasztarány (tipikus)
  1000 nites maximális fényerő (tipikus); 1600 nites maximális fényerő (HDR); 2000 nites maximális fényerő (kültéri)
 Ujjlenyomatok ellen védő, zsírtaszító bevonat
 Több nyelv és karakterkészlet egyidejű megjelenítése;
@@ -46,7 +43,6 @@ HDR‑kijelző
  True Tone technológia
   Széles színtartomány (P3)
  Haptikus érintés
- 2 000 000:1 kontrasztarány (tipikus)
  1000 nites maximális fényerő (tipikus); 1600 nites maximális fényerő (HDR); 2000 nites maximális fényerő (kültéri)
  Ujjlenyomatok ellen védő, zsírtaszító bevonat
   Több nyelv és karakterkészlet egyidejű megjelenítése;
@@ -58,7 +54,6 @@ Super Retina XDR‑kijelző
  True Tone technológia
  Széles színtartomány (P3)
  Haptikus érintés
- 2 000 000:1 kontrasztarány (tipikus)
  800 nites maximális fényerő (tipikus); 1200 nites csúcsfényerő (HDR)
  Ujjlenyomatok ellen védő, zsírtaszító bevonat
  Több nyelv és karakterkészlet egyidejű megjelenítése;
@@ -71,7 +66,6 @@ HDR‑kijelző
  True Tone technológia
  Széles szín­tartomány (P3)
  Haptikus érintés
- 2 000 000:1 kontrasztarány (tipikus)
  1000 nites maximális fényerő (tipikus); 1200 nites maximális fényerő (HDR)
  Ujjlenyomatok ellen védő, zsírtaszító bevonat
  Több nyelv és karakterkészlet egyidejű megjelenítése;
@@ -84,7 +78,6 @@ Super Retina XDR-kijelző ProMotion techno­lógiával
  True Tone technológia
  Széles szín­tartomány (P3)
  Haptikus érintés
- 2 000 000:1 kontrasztarány (tipikus)
  1000 nites maximális fényerő (tipikus); 1200 nites maximális fényerő (HDR)
   Ujjlenyomatok ellen védő, zsírtaszító bevonat
    Több nyelv és karakterkészlet egyidejű megjelenítése;
@@ -97,7 +90,6 @@ Super Retina XDR-kijelző ProMotion techno­lógiával
  True Tone technológia
  Széles szín­tartomány (P3)
  Haptikus érintés
-2 000 000:1 kontrasztarány (tipikus)
  1000 nites maximális fényerő (tipikus); 1200 nites maximális fényerő (HDR)
  Ujjlenyomatok ellen védő, zsírtaszító bevonat
  Több nyelv és karakterkészlet egyidejű megjelenítése;
@@ -109,7 +101,6 @@ HDR‑kijel­ző
 True Tone technológia
  Széles szín­tartomány (P3)
  Haptikus érintés
- 2 000 000:1 kontrasztarány (tipikus)
   800 nites maximális fényerő (tipikus); 1200 nites maximális fényerő (HDR)
  Ujjlenyomatok ellen védő, zsírtaszító bevonat
  Több nyelv és karakterkészlet egyidejű megjelenítése;
@@ -121,7 +112,6 @@ HDR‑kijel­ző
 True Tone technológia
 Széles szín­tartomány (P3)
 Haptikus érintés
-2 000 000:1 kontrasztarány (tipikus)
 800 nites maximális fényerő (tipikus); 1200 nites maximális fényerő (HDR)
 Ujjlenyomatok ellen védő, zsírtaszító bevonat
 Több nyelv és karakterkészlet egyidejű megjelenítése;
