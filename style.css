@@ -124,3 +124,16 @@ footer {
 .elerhetoseg{
     margin-left: 10px;
 }
+#felGomb{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+}
